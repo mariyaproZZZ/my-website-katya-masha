@@ -6,7 +6,7 @@
 
 ## 📄 Техническое задание
 
-[📥 Скачать ТЗ](./ТЗ_Костылева_Зозуля.docx)
+[📥 Скачать ТЗ в формате docx](https://raw.githubusercontent.com/mariyaproZZZ/my-website-katya-masha/main/%D0%A2%D0%97_%D0%9A%D0%BE%D1%81%D1%82%D1%8B%D0%BB%D0%B5%D0%B2%D0%B0_%D0%97%D0%BE%D0%B7%D1%83%D0%BB%D1%8F.docx)
 
 ---
 
